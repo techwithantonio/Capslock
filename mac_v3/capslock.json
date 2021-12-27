@@ -4901,7 +4901,7 @@
           ]
         },
         {
-          "description": "command + t = typora",
+          "description": "command + t = notion",
           "type": "basic",
           "from": {
             "key_code": "t",
@@ -4917,7 +4917,7 @@
           },
           "to": [
             {
-              "shell_command": "open -a Typora"
+              "shell_command": "open -a Notion"
             }
           ]
         },
